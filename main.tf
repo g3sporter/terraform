@@ -1,4 +1,4 @@
-# main base file hello
+# main base file hello world
 # Use the AWS provider and deploy resources in us-east-2 region
 provider "aws" {
   region = "us-east-2"
